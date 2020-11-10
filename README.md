@@ -5,7 +5,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone
+$ git clone `https://github.com/donovan-vargas/dacodesCourses.git`
 $ cd dacodes
 ```
 
