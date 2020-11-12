@@ -6,7 +6,7 @@ The first thing to do is to clone the repository:
 
 ```sh
 $ git clone `https://github.com/donovan-vargas/dacodesCourses.git`
-$ cd dacodes
+$ cd dacodesCourses
 ```
 
 Create a virtual environment to install dependencies in and activate it:
@@ -15,8 +15,8 @@ Create a virtual environment to install dependencies in and activate it:
 $ make
 ```
 Once `pip` has finished downloading the dependencies:
-```sh
-bash server-wrapper.sh
+```cd courses
+sh bash server-wrapper.sh
 ```
 And navigate to `http://127.0.0.1:8000/api/v1/`.
 
