@@ -15,8 +15,9 @@ Create a virtual environment to install dependencies in and activate it:
 $ make
 ```
 Once `pip` has finished downloading the dependencies:
-```cd courses
-sh bash server-wrapper.sh
+```
+$ cd courses
+$ sh bash server-wrapper.sh
 ```
 And navigate to `http://127.0.0.1:8000/api/v1/`.
 
